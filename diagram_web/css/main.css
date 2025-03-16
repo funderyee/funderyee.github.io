@@ -1,0 +1,33 @@
+*{
+    margin: 0; /*pas de marge externes*/
+    padding: 0; /*pas de marges internes*/
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.ordi{
+    width: 15%;
+    position: absolute;
+    left: 300px;
+    top: 190px;
+}
+
+.ordi1{
+    width: 15%;
+    position: absolute;
+    left: 1245px;
+    top: 290px;
+}
+
+.fond{
+    width: 75%;
+}
+
+#interraction{
+    position: absolute;
+    width: 60px; height: 60px; top: 390px; left: 880px; border: solid red;
+}
