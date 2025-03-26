@@ -1,0 +1,5 @@
+*{
+    margin: 0; /*pas de marge externes*/
+    padding: 0; /*pas de marges internes*/
+    box-sizing: border-box;
+}
